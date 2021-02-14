@@ -890,4 +890,8 @@ footer.copyright a{
     section.contact-us{
         flex-direction: column;
     }
+    header.hero .welcome{
+        margin-top: 5rem; ;
+    }
 }
+
